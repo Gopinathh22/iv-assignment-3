@@ -4,5 +4,8 @@ This project presents a D3.js line chart visualization that compares the average
 
 ![Visualization Screenshot](screenshot.png)
 
-[Click here for the Visualization](https://gopinathh22.github.io/iv-assignment-3/)
+✨ **Live Demo:**  
+👉 [Explore the Interactive Visualization](https://gopinathh22.github.io/iv-assignment-3/)
 
+🐙 **GitHub Repository:**  
+🔗 [View Source on GitHub](https://github.com/Gopinathh22/iv-assignment-3)
